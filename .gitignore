@@ -1,0 +1,22 @@
+target/
+### folder ###
+/target
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Log file ###
+*.log
+*.iml
+
+### Package Files ###
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
