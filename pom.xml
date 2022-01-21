@@ -15,7 +15,7 @@
         <serenity.cucumber.version>1.0.14</serenity.cucumber.version>
         <junit.version>4.12</junit.version>
         <assertj.version>3.13.2</assertj.version>
-        <h2.version>1.4.199</h2.version>
+        <h2.version>2.1.210</h2.version>
     </properties>
 
     <dependencies>
